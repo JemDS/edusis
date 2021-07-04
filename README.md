@@ -9,5 +9,5 @@ Resultantly, our proposed solution, eduSISS, engages the stakeholders of the cla
 EduSIS, is an online platform that provides textbooks in digitized formats allowing students at all levels to have higher accessibility to resources for learning. It will also enable classroom virtualization to facilitate online workbook activities for in class and homework assignments. Its purpose is to eradicate the aforementioned barriers as well as to improve education delivery and student learning.
 
 
-Github Link:
-Heroku Link:
+Github Link: https://github.com/JemDS/edusis.git
+Heroku Link: https://immense-ravine-96655.herokuapp.com/
