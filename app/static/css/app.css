@@ -1,0 +1,80 @@
+body {
+    padding:0;
+    margin: 0;
+}
+
+#prop-btn{
+	margin-top: 80px;
+}
+
+#like-img{
+	border-radius: 0px;
+}
+
+.img-fluid{
+	height:auto;
+	max-width:100%;
+	}
+
+#uploadCar .row {
+	padding-bottom: 20px;
+}
+
+#uploadprofile .row {
+	padding-bottom: 20px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+    width: 100%;
+    margin:0 auto;
+}
+
+.container-fluid{
+	padding:100px 50px 0px 50px;
+} 
+
+.details .row{
+	padding: 8px;
+}
+
+.details .col{
+	padding: 0px 25px 0px 10px;
+}
+
+.login-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-top:80px;
+}
+
+a.booklink{
+	text-decoration: none;	
+}
+a.booklink:link{
+	color:#000000 ;
+}
+a.booklink:hover{
+	background: #FF4500 ;
+}
+
+div.fixed {
+  position: fixed;
+  width: 90%;
+}
+
+div.relative {
+  position: relative;
+  width: 90%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+div.recents {
+  position: sticky;
+  width: 100%;
+}
